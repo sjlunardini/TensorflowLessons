@@ -1,2 +1,2 @@
 # TensorflowLessons
-Lessons tested from Deep Learning in Python textbook
+Lessons tested from Deep Learning in Python textbook.
